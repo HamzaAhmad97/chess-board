@@ -1,6 +1,6 @@
 # Chess Board
 
-## [Latest open pull request]()
+## [Latest open pull request](https://github.com/HamzaAhmad97/chess-board/pull/1)
 
 ## Description
 
